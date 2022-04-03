@@ -1,0 +1,13 @@
+.historial {
+    color: white;
+    margin-top: 60px;
+}
+
+.historial h3 {
+    font-size: 1.5rem;
+}
+
+.historial ul {
+    list-style-position: inside;
+    padding: 10px;
+}
